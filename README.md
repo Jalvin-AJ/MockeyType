@@ -2,7 +2,8 @@
 
 
 # [MockeyType] 🎯
-
+![Final](hardware/final.jpg)
+*Final compact build — LEDs, OLED, and buzzer enclosed neatly, ready for roasting action*
 
 ## Basic Details
 ### Team Name: [MockeyType]
